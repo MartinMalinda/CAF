@@ -2,7 +2,7 @@
 	"name": "caf",
 	"version": "9.0.0",
 	"description": "Cancelable Async Flows: a wrapper to treat generators as cancelable async functions",
-	"main": "./index.js",
+	"main": "./src/caf.src.js",
 	"browser": "./src/caf.src.js",
 	"scripts": {
 		"test": "node scripts/node-tests.js",
